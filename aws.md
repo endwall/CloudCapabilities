@@ -12,5 +12,5 @@
    - Provide long term support for cloud architecture 
    - Encourge innvoation from supported teams
 ## How to build cloud foundation and capabilities
-
+- Set Principles
 ### Cloud Management
